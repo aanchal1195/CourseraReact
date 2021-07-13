@@ -1,0 +1,24 @@
+{
+  "name": "courserareact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aanchal1195/CourseraReact.git"
+  },
+  "author": "aanchal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aanchal1195/CourseraReact/issues"
+  },
+  "homepage": "https://github.com/aanchal1195/CourseraReact#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
